@@ -180,7 +180,7 @@ Dimension Tables (Static information like customer or product details):
 Since the data is stored in a MySQL database, we connect Power BI to the MySQL database by providing database access credentials, and then import all the required tables for analysis.
 
 # ✨ Data Model
-
+![Screenshot 2025-04-28 120948](https://github.com/user-attachments/assets/1481a8c2-308f-4558-addc-3e715b8ec2e8)
 ● Data modeling is very important and acts as the foundation of any report. All the visuals and insights are built on top of the data model.
 
 ● If the data model is not designed properly, it can slow down the report and affect its overall performance.
@@ -188,5 +188,5 @@ Since the data is stored in a MySQL database, we connect Power BI to the MySQL d
 ● That's why it's important to follow best practices for data modeling (you can check this blog for more details).
 
 ● In this project, we used the Snowflake data modeling technique to organize the data efficiently.
-![Screenshot 2025-04-28 120948](https://github.com/user-attachments/assets/1481a8c2-308f-4558-addc-3e715b8ec2e8)
+
 
